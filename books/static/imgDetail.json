@@ -1,0 +1,47 @@
+{
+	"data":{
+		"id":"001",
+		"author":"李小四",
+		"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862624929&di=67141787197a1b1fa619ff5317cfefe6&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-09-13%2F105859370.jpg",
+		"title":"高山寺庙",
+		"type":"人文",
+		"description":"人生在世如身处荆棘之中，心不动，人不妄动，不动则不伤，如心动则人妄动，伤其身腐其骨，于是体会到世间诸般痛苦",
+		"time":"09-10 21:32",
+		"imgeList":[
+				"static/imgdetail/pic_02.png",
+				"static/imgdetail/pic_04.png",
+				"static/imgdetail/pic_06.png",
+				"static/imgdetail/pic_08.png"
+		],
+		"commentList":[
+			{
+				"author":"李小四",
+				"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862816927&di=2b6d3563e56e8ce39b773bf469217bc2&imgtype=0&src=http%3A%2F%2Ffile03.16sucai.com%2F2016%2F01%2F2016djnbckoaopx.jpg",
+				"content":"赞赞赞赞，有底蕴",
+				"time":"09-10 21:32"
+			},
+			{
+				"author":"马大哈",
+				"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862822938&di=92b1aab2bce98f628311accaa5f26f69&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-10-02%2F035754171.jpg",
+				"content":"大赞，真心不错",
+				"time":"09-10 21:32"
+			},
+			{
+				"author":"葬爱家族",
+				"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+				"content":"我滴爱，赤裸裸",
+				"time":"09-10 21:32"
+			}
+		],
+		"moneyList":[
+			{	
+				"id":"001",
+				"name":"葬爱家族",
+				"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+				"money":1
+			}
+		],
+		"isFav":1,
+		"isPraise":1
+	}
+}

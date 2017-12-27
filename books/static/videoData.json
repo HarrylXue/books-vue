@@ -1,0 +1,130 @@
+{
+	"videoList":[
+		{
+			"pic":"http://pic.qiantucdn.com/58pic/17/63/80/63n58PICWgP_1024.jpg!/fw/780/watermark/url/L3dhdGVybWFyay12MS4zLnBuZw==/align/center",
+			"author":"狗剩",
+			"avatar":"http://tx.haiqq.com/uploads/allimg/150325/12244UJ2-2.jpg",
+			"title":"可爱的小云彩",
+			"type":"随手拍",
+			"time":"10-12 13:12",
+			"comment":10,
+			"favorite":13,
+			"video":"http://pic.qiantucdn.com/58pic/shipin/17/63/80/17638063.mp4",
+			"description":"这是闲来无事制作的一个小视频，多多指教，哈哈哈",
+			"commentList":[
+				{
+					"author":"李小四",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862816927&di=2b6d3563e56e8ce39b773bf469217bc2&imgtype=0&src=http%3A%2F%2Ffile03.16sucai.com%2F2016%2F01%2F2016djnbckoaopx.jpg",
+					"content":"赞赞赞赞，有底蕴",
+					"time":"09-10 21:32"
+				},
+				{
+					"author":"马大哈",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862822938&di=92b1aab2bce98f628311accaa5f26f69&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-10-02%2F035754171.jpg",
+					"content":"大赞，真心不错",
+					"time":"09-10 21:32"
+				},
+				{
+					"author":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"content":"我滴爱，赤裸裸",
+					"time":"09-10 21:32"
+				}
+			],
+			"moneyList":[
+				{	
+					"id":"001",
+					"name":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"money":1
+				}
+			],
+			"isFav":1,
+			"isPraise":1
+		},
+		{
+			"pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508245100511&di=37b4cb68d53cce268a31aaf8ec62aed4&imgtype=0&src=http%3A%2F%2Fvpic.video.qq.com%2F4580101%2Fu0333dfshlv_ori_3.jpg",
+			"author":"二妹子",
+			"avatar":"http://k2.jsqq.net/uploads/allimg/1706/7_170629152344_5.jpg",
+			"title":"终于知道医院的镇定剂, 是干什么用",
+			"type":"网络红人",
+			"time":"10-12 13:12",
+			"comment":20,
+			"favorite":13,
+			"video":"http://k.youku.com/player/getFlvPath/sid/050823451500010008780_00_A6f13065b49ef3a224bfc13de431e80e3/st/mp4/fileid/030012010059CD070D6394000000015F3D5FE6-B1F7-DED4-030D-8188244066B5?K=0f453232e3073804261ff6b2&hd=1&myp=0&ts=221&ypp=0&ctype=10&ev=1&token=5647&oip=2130706433&sign=b8393e596f75ee22fa8f4c4f94766eeb&ep=2QaucsYKeuWy4LqGnNU0uuWf4Yk04IB4%2FOJzYzN7jmts%2FHHEM5%2BsvOaVvvU99127ZyphznjSmJLrMzofgkY%2BrIkUC98202oLdKJtovEY%2FThSGto0tBilah77aUIR8cdkY%2BxLw2QV79%2BWWU%3D&vl=15",
+			"description":"终于知道医院的镇定剂, 是干什么用，真搞笑，陈翔六点半，溜的飞起，支持支持！！！",
+			"commentList":[
+				{
+					"author":"李小四",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862816927&di=2b6d3563e56e8ce39b773bf469217bc2&imgtype=0&src=http%3A%2F%2Ffile03.16sucai.com%2F2016%2F01%2F2016djnbckoaopx.jpg",
+					"content":"赞赞赞赞，有底蕴",
+					"time":"09-10 21:32"
+				},
+				{
+					"author":"马大哈",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862822938&di=92b1aab2bce98f628311accaa5f26f69&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-10-02%2F035754171.jpg",
+					"content":"大赞，真心不错",
+					"time":"09-10 21:32"
+				},
+				{
+					"author":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"content":"我滴爱，赤裸裸",
+					"time":"09-10 21:32"
+				}
+			],
+			"moneyList":[
+				{	
+					"id":"001",
+					"name":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"money":1
+				}
+			],
+			"isFav":1,
+			"isPraise":1
+		},
+		{
+			"pic":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1508245296952&di=b61cffdd63aa503352af55b71eb092f9&imgtype=0&src=http%3A%2F%2Fnews.youth.cn%2Fyl%2F201305%2FW020130530575977941891.jpg",
+			"author":"大鹏",
+			"avatar":"http://www.feizl.com/upload2007/2014_08/14081816263083.jpg",
+			"title":"大鹏解开柳岩的上衣",
+			"type":"随手拍",
+			"time":"10-12 13:12",
+			"comment":11,
+			"favorite":13,
+			"video":"http://k.youku.com/player/getFlvPath/sid/050823510547012542dff/st/mp4/fileid/03000A010059DEB9510A55498207DE854C529D-84B4-E140-2796-CC6C35BF78CD?k=4fb8f8541be757fc261ff6b2&hd=0&myp=0&ts=42&ctype=12&ev=1&token=0504&oip=1971864216&ep=cieUEkuOU88A4CfYiD8bYijgICFZXP4J9h%2BF8NJjALshQZzK6zfUxp3BS%2FpGH%2FEbciVyZeP0r6Pi%0AaElgYfhH22wQqk%2BsOfri%2Bfnl5d4gwuMDY2tAdcWkwFSeRjD1&ccode=0512&duration=41&expire=18000&psid=1f4721bec0975e8b02575295b6a8baa3&ups_client_netip=117.136.66.152&ups_ts=1508235105&ups_userid=&utid=%2FaMZEuQ7czACATrfwBZsZWLG&vid=XMzA3OTg2MzQ3Ng%3D%3D&vkey=Aa8993d34e53a150e3b5523afeee1076a",
+			"description":"大鹏与柳岩的超内涵视频，老司机专项，我就搜强奸未遂 所期间时间为我就死哦其文件瑟吉欧确实强迫我就",
+			"commentList":[
+				{
+					"author":"李小四",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862816927&di=2b6d3563e56e8ce39b773bf469217bc2&imgtype=0&src=http%3A%2F%2Ffile03.16sucai.com%2F2016%2F01%2F2016djnbckoaopx.jpg",
+					"content":"赞赞赞赞，有底蕴",
+					"time":"09-10 21:32"
+				},
+				{
+					"author":"马大哈",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862822938&di=92b1aab2bce98f628311accaa5f26f69&imgtype=0&src=http%3A%2F%2Fwww.qqzhi.com%2Fuploadpic%2F2014-10-02%2F035754171.jpg",
+					"content":"大赞，真心不错",
+					"time":"09-10 21:32"
+				},
+				{
+					"author":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"content":"我滴爱，赤裸裸",
+					"time":"09-10 21:32"
+				}
+			],
+			"moneyList":[
+				{	
+					"id":"001",
+					"name":"葬爱家族",
+					"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507862868141&di=9becafa80e6387e27fa47feeb23d656c&imgtype=0&src=http%3A%2F%2Fwww.qqleju.com%2Fuploads%2Fallimg%2F160111%2F11-084637_486.jpg",
+					"money":1
+				}
+			],
+			"isFav":1,
+			"isPraise":1
+		}
+	]
+}
